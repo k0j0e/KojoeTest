@@ -4,4 +4,4 @@ function add (x, y)
 }
 
 result = add(10, 52)
-document.write(result)
+document.write("<h2>" + result + "</h2>")
